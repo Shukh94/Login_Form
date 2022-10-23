@@ -98,6 +98,7 @@ form{
     color: #fff;
     opacity: .7;
     transition: opacity .3s ease;
+    font-size: 15px;
 }
 .link a:hover{
     opacity: 1;
